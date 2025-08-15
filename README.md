@@ -1,4 +1,4 @@
-# php-or-golang
+# [php-or-golang](https://news.uh-hardware.com/)
 Golang and PHP are two commonly used programming languages, and they have differences in the following aspects:
 
 Historical background
